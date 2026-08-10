@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jackhenry006/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/jackhenry006/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jackhenry006/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/jackhenry006/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/jackhenry006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jackhenry006/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jackhenry006/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jackhenry006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/jackhenry006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jackhenry006/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
