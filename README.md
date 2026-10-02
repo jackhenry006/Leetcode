@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jackhenry006/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jackhenry006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jackhenry006/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/jackhenry006/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/jackhenry006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jackhenry006/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jackhenry006/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jackhenry006/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/jackhenry006/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jackhenry006/Leetcode/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/jackhenry006/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/jackhenry006/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/jackhenry006/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -172,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jackhenry006/Leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jackhenry006/Leetcode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jackhenry006/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jackhenry006/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
